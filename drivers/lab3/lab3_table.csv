@@ -1,0 +1,19 @@
+original config file,new config file,output file,hash function,number of buckets,tuples per bucket,memory consumption,build time,probe time,total time
+join1.conf,Join1_1.conf,Join1_1.output,modulo,4194304,1,671793696,17.74664581,2.703649284,20.4502951
+join1.conf,Join1_2.conf,Join1_2.output,modulo,4194304,2,337659552,0.50137788,1.941738321,2.443118841
+join1.conf,Join1_3.conf,Join1_3.output,modulo,2097152,1,604684832,17.68250064,2.718257917,20.4007623
+join1.conf,Join1_4.conf,Join1_4.output,modulo,2097152,2,236996256,0.484564837,1.928980096,2.413547491
+join2.conf,Join2_1.conf,Join2_1.output,modulo,4194304,1,671793696,17.95454251,1.890544162,19.84508938
+join2.conf,Join2_2.conf,Join2_2.output,modulo,4194304,2,337659552,0.481392324,1.433961548,1.915357289
+join2.conf,Join2_3.conf,Join2_3.output,modulo,2097152,1,NA,NA,NA,NA
+join2.conf,Join2_4.conf,Join2_4.output,modulo,2097152,2,438322848,9.079609495,1.914709218,10.99432191
+join1.conf,Join1_5.conf,Join1_5.output,modulo,1048576,4,220219040,0.513145987,2.56182236,3.07497123
+join1.conf,Join1_6.conf,Join1_6.output,parammodulo,2097152,2,438322848,9.607953137,2.793984085,12.40194018
+join1.conf,Join1_7.conf,Join1_7.output,parammodulo,1048576,4,220219040,0.481017473,2.455019391,2.936039607
+join1.conf,Join1_8.conf,Join1_8.output,parammodulo,524288,8,211830432,0.493988119,3.179306957,3.67329795
+join2.conf,join2_5.conf,join2_5.output,modulo,1048576,4,320882336,5.531595008,2.890846458,8.422443995
+join2.conf,Join2_6.conf,Join2_6.output,parammodulo,2097152,2,236996256,0.59945409,1.927563754,2.527021276
+join2.conf,Join2_7.conf,Join2_7.output,parammodulo,1048576,4,220219040,0.484195979,1.896173266,2.380371773
+join2.conf,Join2_8.conf,Join2_8.output,parammodulo,524288,8,211830432,0.55667344,3.385904683,3.942589861
+join1.conf,join1_9.conf,join1_9.output,willis,2097152,2,385273440,7.560158634,3.154596603,10.71475823
+join1.conf,join1_10.conf,join1_10.output,willis,524288,8,264615072,2.484891473,3.90886269,6.393756822
